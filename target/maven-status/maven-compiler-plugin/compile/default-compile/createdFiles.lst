@@ -1,0 +1,8 @@
+seleniumcourse\pageobjects\CartPage.class
+seleniumcourse\AbstractComponents\AbstractComponents.class
+seleniumcourse\pageobjects\LoginPage.class
+seleniumcourse\AbstractComponents\OrderPage.class
+seleniumcourse\pageobjects\OrderCompletionPage.class
+seleniumcourse\pageobjects\CheckOutPage.class
+seleniumcourse\pageobjects\ProductCatalogue.class
+seleniumcourse\resources\ExtentReportNG.class
