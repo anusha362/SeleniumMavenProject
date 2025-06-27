@@ -18,7 +18,7 @@ import seleniumcourse.pageobjects.LoginPage;
 public class StandAloneTest {
 
 	public static void main(String[] args) {
-		
+		// new comments are added
 		String productName = "ZARA COAT 3";
 		String ownerName = "Anusha";
 		String countryName ="india";
